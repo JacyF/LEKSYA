@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jacintoluisfrancisco/Downloads/4 КУРС/IT COURSE/MEUS PROJECTOS/LEKSYA/Leksya-1/example002_hellouser/example002_hellouser.csproj": {}
+    "/Users/jacintoluisfrancisco/Downloads/4 КУРС/IT COURSE/MEUS PROJECTOS/LEKSYA/LEKSYA-1/Leksya-1/example002_hellouser/example002_hellouser.csproj": {}
   },
   "projects": {
-    "/Users/jacintoluisfrancisco/Downloads/4 КУРС/IT COURSE/MEUS PROJECTOS/LEKSYA/Leksya-1/example002_hellouser/example002_hellouser.csproj": {
+    "/Users/jacintoluisfrancisco/Downloads/4 КУРС/IT COURSE/MEUS PROJECTOS/LEKSYA/LEKSYA-1/Leksya-1/example002_hellouser/example002_hellouser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jacintoluisfrancisco/Downloads/4 КУРС/IT COURSE/MEUS PROJECTOS/LEKSYA/Leksya-1/example002_hellouser/example002_hellouser.csproj",
+        "projectUniqueName": "/Users/jacintoluisfrancisco/Downloads/4 КУРС/IT COURSE/MEUS PROJECTOS/LEKSYA/LEKSYA-1/Leksya-1/example002_hellouser/example002_hellouser.csproj",
         "projectName": "example002_hellouser",
-        "projectPath": "/Users/jacintoluisfrancisco/Downloads/4 КУРС/IT COURSE/MEUS PROJECTOS/LEKSYA/Leksya-1/example002_hellouser/example002_hellouser.csproj",
+        "projectPath": "/Users/jacintoluisfrancisco/Downloads/4 КУРС/IT COURSE/MEUS PROJECTOS/LEKSYA/LEKSYA-1/Leksya-1/example002_hellouser/example002_hellouser.csproj",
         "packagesPath": "/Users/jacintoluisfrancisco/.nuget/packages/",
-        "outputPath": "/Users/jacintoluisfrancisco/Downloads/4 КУРС/IT COURSE/MEUS PROJECTOS/LEKSYA/Leksya-1/example002_hellouser/obj/",
+        "outputPath": "/Users/jacintoluisfrancisco/Downloads/4 КУРС/IT COURSE/MEUS PROJECTOS/LEKSYA/LEKSYA-1/Leksya-1/example002_hellouser/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jacintoluisfrancisco/.nuget/NuGet/NuGet.Config"
